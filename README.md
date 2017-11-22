@@ -16,3 +16,15 @@ openFrameworksは,インタラクティブなコンテンツやメディアア�
 しかしながらこれらの様なことを実現するためにも,openFramworksはProcessingよりも複雑な設計をUserに要求することもあります. その要求に答えられるようになれば,もっともっと素晴らしいコンテンツを作成できる様になるでしょう...！！！
 
 ってなわけで,自分が勉強しながら,チュートリアル的なのを書いてくのがこのリポジトリです.がんばろっ！！
+
+## 参考文献
+
+必要に応じて参照して欲しいです.
+
+紙媒体(キャンパスの図書館で手に入ります)
+
+* openFrameworks Essentials(Denis Perevalov, 2015)
+
+web
+
+* (ProcessingユーザーのためのopenFrameworks)[http://openframeworks.jp/tutorials/firstSteps/002_openFrameworks_for_processing_users.html]
