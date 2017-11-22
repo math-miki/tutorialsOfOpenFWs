@@ -27,4 +27,4 @@ openFrameworksは,インタラクティブなコンテンツやメディアア�
 
 web
 
-* (ProcessingユーザーのためのopenFrameworks)[http://openframeworks.jp/tutorials/firstSteps/002_openFrameworks_for_processing_users.html]
+* [ProcessingユーザーのためのopenFrameworks](http://openframeworks.jp/tutorials/firstSteps/002_openFrameworks_for_processing_users.html)
