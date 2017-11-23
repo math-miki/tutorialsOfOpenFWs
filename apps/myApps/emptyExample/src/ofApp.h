@@ -1,6 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
+#include "ofxGui.h"
 
 class ofApp : public ofBaseApp{
 	public:
@@ -10,11 +11,9 @@ class ofApp : public ofBaseApp{
 		void draw();
         /* creating original functions */
     
-        void stripePattern1();
-        void stripePattern2();
     
         /* default functions */
-    
+    ofxPanel gui;
     
 		void keyPressed(int key);
 		void keyReleased(int key);
