@@ -3,3 +3,5 @@
 .DS_Store
 /apps/Templates
 addons/
+openFrameworks/
+local_addons/
